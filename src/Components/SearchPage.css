@@ -1,0 +1,27 @@
+.main-div{
+    background-color: rgb(245, 250, 185);
+    height: 100%;
+    width:100%;
+}
+h1{
+    margin: 0;
+}
+
+.header{
+    text-align: center;
+    padding-top: 2rem;
+}
+
+.all-poke-div{
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+    gap:4rem;
+}
+
+.card-div{
+    width:300px;
+}
